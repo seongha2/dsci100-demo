@@ -1,3 +1,2 @@
 # dsci-100-project_template
-Template project repository for DSCI-100
-In-class demo
+Template project repository for in-class demo, DSCI-100 
